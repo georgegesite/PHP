@@ -14,7 +14,8 @@
         echo "variable is null";
     }
 
-    echo "Hello World";
+    echo "Hello Amazing world <br>";
+    echo "breakline";
     ?>
 </body>
 
